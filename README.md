@@ -2,7 +2,8 @@
 Moving the ocean bottom seismometers on the sea floor
 demands the necessity of the relocation corrections on the recorded data. We have written a python code to make this step easier.
 Before executing, the Sac software must be installed.
-Other parts of header can be corrected accordingly.
+Other parts of the header can be corrected accordingly.
+The Python script should be executed in the terminal.
 
 We would be happy if you could cite our paper for acknowledgement. 
 
