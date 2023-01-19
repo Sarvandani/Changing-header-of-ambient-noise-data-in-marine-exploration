@@ -14,8 +14,6 @@ p = subprocess.Popen(['sac'],
                      stderr = subprocess.STDOUT )
 
 s = "echo on\n"
-#for filename in glob.glob("/Volumes/DRIVE_2/SAC_DATA/T2/T2-1-Cross1_Mic01.SAC"):
-#for  filename in glob.glob("/Volumes/DRIVE_2/PROJECT_TAIWANESE_3HOURS/T3*.sac"):
 for  filename in glob.glob("/Volumes/DRIVE_2/Github_header_correction/SULZ*.SAC"):
     s += '''
 read %(file)s
