@@ -6,5 +6,10 @@ Other parts of the header can be corrected accordingly.
 The Python script should be executed in the terminal.
 
 We would be happy if you could cite our paper for acknowledgement. 
+```
+<git status
+git add
+git commit
+```
 
 M M Sarvandani, E Kästle, L Boschi, S Leroy, M Cannat, Seismic Ambient Noise Imaging of a Quasi-Amagmatic Ultra-Slow Spreading Ridge, Remote Sensing 13 (14), 2811
