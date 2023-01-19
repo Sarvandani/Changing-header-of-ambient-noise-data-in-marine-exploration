@@ -1,4 +1,4 @@
-# Changing-header-of-ambient-noise-data-in-marine-exploration
+# Changing header of ambient noise data in marine exploration
 Moving the ocean bottom seismometers on the sea floor
 demands the necessity of the relocation corrections on the recorded data. We have written a python code to make this step easier.
 Before executing, the Sac software must be installed.
