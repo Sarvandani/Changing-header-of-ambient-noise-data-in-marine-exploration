@@ -7,7 +7,7 @@ demands the necessity of the relocation corrections on the recorded data. We hav
 Before executing, the Sac software must be installed.
 Other parts of the header can be corrected accordingly.
 The Python script should be executed in the terminal.
-
+The name of code for Python 3 is `change_loc_py3.py`. 
 We would be happy if you could cite our paper for acknowledgement. 
 
 
